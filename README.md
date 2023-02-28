@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi5h3k-5ingh
+- 👋 **Hi, I’m Abhishek Singh**
 - 👀 I’m interested in data structure, competitive programming & cybersecurity.
 - 🌱 I’m currently mastering data structure.
 - 💞️ I’m looking to collaborate in field of cybersecurity.
