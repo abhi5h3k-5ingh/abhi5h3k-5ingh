@@ -1,7 +1,8 @@
 - 👋 **Hi, I’m Abhishek Singh**
-- 👀 I’m interested in data structure, competitive programming & cybersecurity.
+- 👀 I’ll bring the expertise of backend and frontend using MERN stack.
+- 👀 I'm intersted in mobile development, data structure & cybersecurity.
 - 🌱 I’m currently mastering data structure.
-- 💞️ I’m looking to collaborate in field of cybersecurity.
+- 💞️ I’m looking to collaborate in field of Full Stack, Mobile Dev, Cybersecurity.
 - 📫 How to reach me here is my linkedin profile https://www.linkedin.com/in/abhi5h3k-5ingh/
 
 <!---
